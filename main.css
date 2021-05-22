@@ -1,0 +1,9 @@
+.nav-container {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    display: inline;
+    padding: 1em;
+}
